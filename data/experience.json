@@ -1,20 +1,20 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"CEO",
+        "company":"ZCOST INC",
+        "summary":"Cloud Computing for small and medium size enterprises\n- list\n- of\n- things",
+        "range":"July 2016 - Present"
+    },
+    {
+        "role":"Vice President",
+        "company":"KT",
+        "summary":"design and construct Cloud Architecture and Datacenters",
+        "range":"March 2009 - December 2015"
     },
     {
         "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "company":"KT research center",
+        "summary":"research on BISDN, video conferencing, and telecommunication networks",
+        "range":"February 1988 - July 2016"
     }
 ]

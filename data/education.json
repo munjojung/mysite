@@ -1,15 +1,13 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
+        "school":"[Kyungpook National University](https://www.knu.ac.kr/wbbs/)",
+        "degree":"Ph.D",
+        "major":"Electronic and Communications Engineering",
         "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "range":"1998 - 2004"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Chunggu High School",
+        "range":"1978 - 1981"
     }
 ]
