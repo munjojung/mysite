@@ -1,3 +1,51 @@
-baseURL = "http://example.org/"
+title = "Munjo Jung"
+baseURL = "https://munjojung.github.io/"
+theme = "hugo-resume"
 languageCode = "en-us"
-title = "My New Hugo Site"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Kangnam, Seoul"
+email = "munjojung@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Munjo"
+lastName = "Jung"
+phone = "010-3450-2090"
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = true
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/munjojung/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/munjojung/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://bitbucket.org/munjojung/"
+name = "Bitbucket"
+
+[[params.handles]]
+link = "https://instagram.com/munjojung/"
+name = "Instagram"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
